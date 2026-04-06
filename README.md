@@ -1,5 +1,8 @@
 # ALTCHA Server Demo for Node.js
 
+> [!WARNING]
+> DEPRECATED: This repository is no longer maintained. Please refer to [`altcha-lib`](https://github.com/altcha-org/altcha-lib) for the current implementation and examples.
+
 This repository demonstrates the implementation of an ALTCHA server with spam filtering using the [altcha-lib](https://github.com/altcha-org/altcha-lib) library. The server provides endpoints for fetching challenges and submitting form data, including verification of Proof-of-Work (PoW) solutions and spam filtering.
 
 ## Documentation
